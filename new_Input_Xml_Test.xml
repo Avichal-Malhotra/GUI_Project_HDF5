@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TreeView>
+	<node text="bf2020_fkz-03et1046a_as_solar_hannover" tag="nicht_vorhanden" imgIndex=0>	
+		<node text="m5" tag="nicht_vorhanden" imgIndex="1" />
+		<node text="m11" tag="nicht_vorhanden" imgIndex="1" />
+		<node text="m20" tag="nicht_vorhanden" imgIndex="1" />
+		<node text="m30" tag="nicht_vorhanden" imgIndex="1" />
+		<node text="m40" tag="nicht_vorhanden" imgIndex="1" />
+		<node text="m50" tag="nicht_vorhanden" imgIndex="1" />
+		<node text="m51" tag="nicht_vorhanden" imgIndex="1" />
+		<node text="m52" tag="nicht_vorhanden" imgIndex="1" />
+	</node>
+</TreeView>

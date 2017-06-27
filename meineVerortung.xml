@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TreeView>
+  <node text="Testprojekt" tag="d206d28cf80e47c1bbf4d5a33f1a7ddf" imgIndex="0">
+    <node text="Meine Liegenschaft 1" tag="4e7c5b6692d8419f9f81fd0fdf4357de">
+      <node text="Mein Gebäude 1" tag="5dd273c2182949d598be92c0350a2c88">
+        <node text="Mein Geschoss 1" tag="ee987a324a344488b38804590da47cbe">
+          <node text="Mein Raum 1" tag="2b34a1cfcd07474cb0a5952dd3fbb6fe">
+            <node text="HZG_HZG_NoSub2_AUS_KUEW_AL_AF" tag="041f7fe1de194e53913983d0987d1abb" imgIndex="1" />
+          </node>
+          <node text="Mein Raum 2" tag="9e3e7e91885649e0b13b34a2d52d9c59">
+            <node text="HZG_HZG_NoSub2_AUS_KUEW_AL_AF" tag="041f7fe1de194e53913983d0987d1abb" imgIndex="1" />
+          </node>
+          <node text="Mein Raum 3" tag="9be7b001aaef4cb3be87651cd5ed1344">
+            <node text="HZG_HZG_NoSub2_AUS_ABL_AL_AF" tag="87c6454f5ff541668a366ff583d4ea65" imgIndex="1" />
+          </node>
+          <node text="HZG_HZG_NoSub2_AUS_ABL_AL_AF" tag="87c6454f5ff541668a366ff583d4ea65" imgIndex="1" />
+        </node>
+        <node text="Mein Geschoss 2" tag="13974ccd48ed4c15a1198d1f13252ae7">
+          <node text="Mein Raum 1" tag="8f593582189c4d6dbd6c089a16dfc7e4" />
+          <node text="Mein Raum 2" tag="a49af76315204e749c0790df5dabbeea" />
+          <node text="Mein Raum 3" tag="82498179f71b496f9354206c1b6db0bf" />
+        </node>
+        <node text="HZG_BHKW_NoSub2_AUS_ABL_AL_AF" tag="4fe97945ddab4c12b177b4bed6812a68" imgIndex="1" />
+        <node text="HZG_BHKW_NoSub2_AUS_ABL_AL_AF" tag="4fe97945ddab4c12b177b4bed6812a68" imgIndex="1" />
+        <node text="HZG_HZG_NoSub2_N_HW_AL_AF" tag="d54a4bce288e4923a05bb8d9a3f036db" imgIndex="1" />
+        <node text="HZG_HZG_NoSub2_N_HW_AL_AF" tag="d54a4bce288e4923a05bb8d9a3f036db" imgIndex="1" />
+        <node text="HZG_HZG_NoSub2_N_HW_AL_AF" tag="d54a4bce288e4923a05bb8d9a3f036db" imgIndex="1" />
+      </node>
+    </node>
+  </node>
+</TreeView>
